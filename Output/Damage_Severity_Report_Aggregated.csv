@@ -1,0 +1,11 @@
+FileName,Overall Health Score,Overall Score,Floor 1,Floor 2,Floor 3,Floor 4,Floor 5
+Case1,Level 4,2.72,Level 2,Level 3,Level 3,Level 3,Level 2
+Case2,Level 3,2.64,Level 3,Level 3,Level 2,Level 3,Level 2
+Case3,Level 1,1.7,Level 1,Level 2,Healthy,Level 3,Level 2
+Case4,Level 2,2.15,Level 2,Level 4,Healthy,Level 2,Level 3
+Healthy1.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy
+Healthy2.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy
+Healthy3.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy
+Healthy4.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy
+Healthy5.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy
+Healthy6.mat,Healthy,0.0,Healthy,Healthy,Healthy,Healthy,Healthy

@@ -1,0 +1,25 @@
+FileName,Overall Health,Floor 1,Floor 2,Floor 3,Floor 4,Floor 5,CaseName
+Healthy1.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy1.mat
+Healthy2.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy2.mat
+Healthy3.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy3.mat
+Healthy4.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy4.mat
+Healthy5.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy5.mat
+Healthy6.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy6.mat
+Case1_1.mat,Damaged,Level 4,Level 4,Level 4,Level 3,Level 3,Case1
+Case1_2.mat,Damaged,Healthy,Level 4,Level 2,Level 2,Healthy,Case1
+Case1_3.mat,Damaged,Level 4,Level 4,Level 4,Level 4,Level 4,Case1
+Case1_4.mat,Damaged,Level 1,Level 1,Level 3,Level 4,Level 1,Case1
+Case1_5.mat,Damaged,Level 2,Level 3,Level 2,Level 3,Level 2,Case1
+Case2_1.mat,Damaged,Level 4,Level 2,Level 1,Level 4,Level 2,Case2
+Case2_2.mat,Damaged,Level 4,Level 4,Level 3,Level 4,Level 3,Case2
+Case2_3.mat,Damaged,Level 3,Level 4,Level 1,Level 2,Level 3,Case2
+Case2_4.mat,Damaged,Level 3,Level 2,Level 1,Level 2,Level 1,Case2
+Case2_5.mat,Damaged,Level 2,Level 3,Level 2,Level 4,Level 2,Case2
+Case3_1.mat,Damaged,Level 1,Level 4,Level 1,Level 4,Level 4,Case3
+Case3_2.mat,Damaged,Level 3,Level 4,Healthy,Level 3,Healthy,Case3
+Case3_3.mat,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Case3
+Case3_4.mat,Damaged,Level 1,Level 2,Level 1,Level 4,Level 2,Case3
+Case4_1.mat,Damaged,Healthy,Level 4,Healthy,Healthy,Level 4,Case4
+Case4_2.mat,Damaged,Level 4,Level 2,Healthy,Level 4,Level 4,Case4
+Case4_3.mat,Damaged,Level 4,Level 4,Healthy,Level 2,Level 1,Case4
+Case4_4.mat,Damaged,Level 1,Level 4,Level 1,Level 2,Level 2,Case4
